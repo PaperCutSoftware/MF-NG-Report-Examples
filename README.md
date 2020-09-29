@@ -14,3 +14,5 @@ This repo contains
 3. Custom reports (see https://www.papercut.com/support/resources/manuals/ng-mf/applicationserver/topics/reports-custom.html)
 4. Health API (see https://www.papercut.com/support/resources/manuals/ng-mf/common/topics/tools-monitor-system-health-api.html)
 
+In the future PaperCut MF/NG will have a new data extract function.
+Watch the [Percolator](https://www.papercut.com/products/percolator/) page for announcements.
